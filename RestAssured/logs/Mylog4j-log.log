@@ -1,0 +1,643 @@
+[INFO ] 2023-07-23 00:54:05.609 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 00:54:05.630 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 01:09:52.498 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 01:09:52.522 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 01:11:33.940 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 01:11:33.967 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 01:12:52.524 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 01:12:52.541 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:04:11.709 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:04:11.718 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:07:17.262 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:07:17.272 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:07:34.572 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:07:34.587 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:24:40.899 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:24:40.916 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:25:41.718 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:25:41.736 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:28:48.727 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:28:48.747 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:30:40.730 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:30:40.753 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:34:11.877 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:34:11.896 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:36:17.084 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:36:17.100 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:37:29.680 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:37:29.954 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:39:04.933 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:39:05.182 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:39:06.070 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:39:06.086 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:40:01.986 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:40:02.238 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:40:03.118 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:40:03.128 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:40:03.145 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:40:03.343 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:42:41.178 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:42:41.432 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:42:42.306 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:42:42.313 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:42:42.330 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:42:42.527 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:46:00.788 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:46:01.031 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:46:01.936 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:46:01.943 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:46:01.959 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:46:02.147 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:49:33.391 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:49:33.658 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:49:34.537 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:49:34.538 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-23 11:49:34.539 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 11:49:34.966 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:49:34.980 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:49:35.178 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:52:20.033 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:52:20.271 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:52:21.147 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:52:21.153 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:52:21.168 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:52:21.358 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:56:03.787 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:56:04.047 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:56:04.970 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 11:56:04.977 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 11:56:04.992 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 11:56:05.196 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 13:05:08.637 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 13:05:08.878 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 13:05:09.731 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 13:05:09.739 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 13:05:09.754 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 13:05:09.955 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 13:05:34.138 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 13:05:34.381 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 13:05:35.213 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 13:05:35.221 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 13:05:35.236 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 13:05:35.435 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 16:14:11.432 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 16:14:11.684 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 16:14:12.560 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 16:14:12.565 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 16:14:12.579 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 16:14:12.780 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 16:19:33.576 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 16:19:33.807 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 16:19:34.662 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 16:19:34.668 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 16:19:34.681 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 16:19:34.886 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 16:27:02.057 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 16:27:02.307 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 16:27:03.164 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 16:27:03.171 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 16:27:03.185 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 16:27:03.382 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 18:40:12.983 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 18:40:12.985 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 19:43:26.595 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 19:43:26.598 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 19:56:34.296 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 19:56:34.298 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 19:59:32.066 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 19:59:32.068 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 19:59:32.925 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 20:02:53.746 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:02:53.994 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:02:54.835 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:02:54.845 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:02:54.858 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:02:55.059 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:02:55.064 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:02:55.065 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 20:02:55.331 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 20:02:55.335 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:02:55.340 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:02:55.345 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:02:55.349 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 20:02:55.353 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 20:03:25.092 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:03:25.342 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:03:26.189 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:03:26.198 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:03:26.214 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:03:26.421 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:03:26.427 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:03:26.428 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 20:03:26.718 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 20:03:26.722 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:03:26.727 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:03:26.730 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:03:26.734 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 20:03:26.737 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 20:07:36.800 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:07:37.043 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:07:37.938 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:07:37.946 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:07:37.959 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:07:38.164 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:07:38.170 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:07:38.171 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 20:07:38.443 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 20:07:38.446 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:07:38.449 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:07:38.453 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:07:38.456 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 20:07:38.458 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 20:12:33.922 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:12:34.166 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:12:35.007 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:12:35.016 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:12:35.029 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:12:35.228 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:12:35.233 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:12:35.234 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 20:12:35.478 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 20:12:35.481 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:12:35.485 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:12:35.489 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 20:12:35.493 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 20:12:35.496 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 20:13:22.280 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:13:22.526 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:13:23.402 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 20:13:23.410 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 20:13:23.425 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 20:13:23.632 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 21:22:58.056 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 21:22:58.317 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 21:22:59.221 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 21:22:59.228 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 21:22:59.241 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 21:22:59.446 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 21:22:59.446 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-23 21:22:59.446 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 21:22:59.740 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:22:59.741 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 21:22:59.994 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 21:23:00.015 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:23:00.018 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:23:00.021 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:23:00.024 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 21:23:00.028 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 21:24:51.078 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 21:24:51.316 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 21:24:52.204 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 21:24:52.211 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 21:24:52.229 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 21:24:52.434 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 21:24:52.439 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:24:52.439 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 21:24:52.738 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 21:24:52.758 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:24:52.761 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:24:52.764 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 21:24:52.766 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 21:24:52.769 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 22:31:43.141 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:31:43.144 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 22:31:44.018 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 22:33:24.022 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 22:33:24.287 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 22:33:25.138 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 22:33:25.146 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 22:33:25.160 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 22:33:25.352 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 22:37:21.014 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:37:21.017 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 22:47:54.159 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:47:54.162 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 22:51:56.009 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:51:56.013 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 22:53:00.046 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:55:07.827 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:55:07.832 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 22:55:08.668 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 22:55:08.669 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 22:57:06.619 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:57:06.622 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 22:57:07.466 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 22:57:07.466 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 22:57:40.029 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 22:57:40.034 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 22:57:40.883 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 22:57:40.883 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 22:58:58.164 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 22:58:58.168 [main] Loggerload - *********************** Updating User *************
+[INFO ] 2023-07-23 23:13:29.555 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 23:13:29.560 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 23:13:30.423 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 23:13:30.424 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 23:19:36.340 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 23:19:36.343 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 23:19:37.187 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 23:19:37.187 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 23:20:23.569 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-23 23:20:23.573 [main] Loggerload - *********************** Updating User *************
+[INFO ] 2023-07-23 23:34:54.889 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 23:34:54.892 [main] Loggerload - *********************** Deleting User *************
+[INFO ] 2023-07-23 23:36:48.071 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 23:36:48.074 [main] Loggerload - *********************** Deleting User *************
+[INFO ] 2023-07-23 23:37:43.434 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-23 23:37:43.438 [main] Loggerload - *********************** Deleting User *************
+[INFO ] 2023-07-23 23:38:02.940 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-23 23:38:02.943 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-23 23:38:03.827 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-23 23:38:18.730 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 23:38:18.993 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 23:38:19.836 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-23 23:38:19.844 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-23 23:38:19.858 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-23 23:38:20.057 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-24 11:05:09.521 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 11:05:09.523 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 11:05:10.422 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:11:02.202 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 15:11:02.460 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 15:11:03.412 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-24 15:11:03.413 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-24 15:11:03.413 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:11:03.749 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 15:11:03.767 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 15:11:03.978 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-24 15:11:03.979 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-24 15:11:03.979 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:11:04.338 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:11:04.339 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:11:04.637 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:11:04.639 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:11:04.938 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:11:04.943 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:11:04.943 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:11:05.269 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:11:05.274 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:11:05.275 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:11:05.567 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:11:05.571 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 15:11:05.571 [main] Loggerload - *********************** Updating User *************
+[INFO ] 2023-07-24 15:11:05.801 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 15:11:05.801 [main] Loggerload - *********************** Deleting User *************
+[INFO ] 2023-07-24 15:29:45.478 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 15:29:45.738 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 15:29:46.661 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-24 15:29:46.669 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 15:29:46.683 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 15:29:46.883 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-24 15:29:46.889 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:29:46.889 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:29:47.227 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:29:47.232 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:29:47.233 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:29:47.519 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:29:47.519 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:29:47.522 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:29:47.523 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:29:47.805 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:29:47.805 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:29:47.808 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:29:47.808 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:29:48.108 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:29:48.109 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:29:48.112 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 15:29:48.112 [main] Loggerload - *********************** Updating User *************
+[INFO ] 2023-07-24 15:29:48.323 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 15:29:48.324 [main] Loggerload - *********************** Deleting User *************
+[INFO ] 2023-07-24 15:37:26.458 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 15:37:26.694 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 15:37:27.600 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-24 15:37:27.607 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 15:37:27.621 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 15:37:27.842 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-24 15:37:27.848 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:37:27.849 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:37:28.234 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:37:28.236 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:37:28.237 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:37:28.535 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:37:28.535 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:37:28.539 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:37:28.539 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:37:28.875 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:37:28.875 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:37:28.878 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:37:28.878 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:37:29.180 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:37:29.180 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 15:37:29.185 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 15:37:29.185 [main] Loggerload - *********************** Updating User *************
+[INFO ] 2023-07-24 15:37:29.404 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 15:37:29.404 [main] Loggerload - *********************** Deleting User *************
+[INFO ] 2023-07-24 15:58:09.324 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 15:58:09.327 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 15:58:10.195 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 16:03:10.173 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 16:03:10.175 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 16:03:11.081 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 16:04:31.713 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 16:04:31.716 [main] Loggerload - *********************** Retriving User *************
+[INFO ] 2023-07-24 16:04:32.667 [main] Loggerload - *********************** User details are Displayed *************
+[INFO ] 2023-07-24 19:20:06.565 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:20:06.568 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:20:07.444 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@2dafae61
+[INFO ] 2023-07-24 19:36:00.334 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:36:00.337 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:36:01.151 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@764b14b8
+[INFO ] 2023-07-24 19:38:47.998 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:38:48.239 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:38:49.125 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:38:49.144 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:38:49.350 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:38:49.350 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:38:49.624 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@5c70d7f0
+[INFO ] 2023-07-24 19:38:49.713 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:38:49.714 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:38:49.733 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:38:49.734 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 19:38:49.930 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@6164e137
+[INFO ] 2023-07-24 19:38:49.935 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:38:49.935 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:38:49.960 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 19:38:49.962 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 19:38:49.963 [main] Loggerload - *********************** Deleting Batch *************
+[INFO ] 2023-07-24 19:44:13.967 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:44:14.206 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:44:15.078 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:44:15.094 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:44:15.303 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:44:15.304 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:44:15.568 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@582dcd35
+[INFO ] 2023-07-24 19:44:15.667 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:44:15.668 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:44:15.685 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:44:15.685 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 19:44:15.887 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@7ef8e623
+[INFO ] 2023-07-24 19:44:15.891 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:44:15.892 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:44:15.916 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 19:44:15.919 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 19:44:15.920 [main] Loggerload - *********************** Deleting Batch *************
+[INFO ] 2023-07-24 19:45:02.500 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:45:02.503 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:45:03.359 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@764b14b8
+[INFO ] 2023-07-24 19:50:18.624 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:50:18.861 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:50:19.744 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:50:19.763 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:50:19.977 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:50:19.977 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:50:20.266 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@582dcd35
+[INFO ] 2023-07-24 19:50:20.359 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:50:20.360 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:50:20.374 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:50:20.374 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 19:50:20.571 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@7ef8e623
+[INFO ] 2023-07-24 19:50:20.591 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:50:20.591 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:50:20.599 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 19:50:20.601 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 19:50:20.601 [main] Loggerload - *********************** Deleting Batch *************
+[INFO ] 2023-07-24 19:52:18.675 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:52:18.677 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:52:19.519 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@1bbddada
+[INFO ] 2023-07-24 19:54:16.057 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:54:16.293 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:54:17.163 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 19:54:17.181 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 19:54:17.402 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:54:17.402 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:54:17.679 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@5c70d7f0
+[INFO ] 2023-07-24 19:54:17.791 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:54:17.792 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:54:17.822 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:54:17.822 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 19:54:18.030 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@18026052
+[INFO ] 2023-07-24 19:54:18.035 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:54:18.036 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 19:54:18.047 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 19:54:18.050 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 19:54:18.050 [main] Loggerload - *********************** Deleting Batch *************
+[INFO ] 2023-07-24 19:56:26.846 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 19:56:26.849 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 19:56:27.639 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@114a5e0
+[INFO ] 2023-07-24 20:01:46.060 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 20:01:46.317 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 20:01:47.191 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 20:01:47.207 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 20:01:47.409 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:01:47.409 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 20:01:47.696 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@2eebce87
+[INFO ] 2023-07-24 20:01:47.782 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:01:47.782 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 20:01:47.796 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:01:47.797 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 20:01:47.991 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@6e068ac9
+[INFO ] 2023-07-24 20:01:47.995 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:01:47.995 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 20:01:48.003 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 20:01:48.005 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 20:01:48.005 [main] Loggerload - *********************** Deleting Batch *************
+[INFO ] 2023-07-24 20:18:10.078 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:18:10.081 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 20:18:10.900 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@4a070cf0
+[INFO ] 2023-07-24 20:24:09.699 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:24:09.702 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 20:24:10.507 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@4a070cf0
+[INFO ] 2023-07-24 20:27:01.974 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:27:01.977 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 20:27:02.785 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@4a070cf0
+[INFO ] 2023-07-24 20:27:02.844 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 20:27:03.100 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@1d3c112a
+[INFO ] 2023-07-24 20:27:27.452 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:27:27.456 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 20:30:57.464 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 20:30:57.468 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 20:30:58.240 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@dd3f8aa
+[INFO ] 2023-07-24 21:12:46.800 [main] Loggerload - user unable to get data with invalid baseUrl
+[INFO ] 2023-07-24 21:12:46.803 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 21:12:47.676 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@5707f613
+[INFO ] 2023-07-24 21:58:18.285 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 21:58:18.288 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 21:58:19.124 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@4a070cf0
+[INFO ] 2023-07-24 21:58:19.230 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 21:58:19.495 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@1d3c112a
+[INFO ] 2023-07-24 21:59:56.875 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 21:59:57.132 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:00:58.981 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:00:59.225 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:01:00.085 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:01:00.101 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:02:54.673 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:02:54.915 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:02:55.777 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:02:55.796 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:19:29.133 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:19:29.384 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:19:30.258 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:19:30.276 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:19:30.469 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:19:30.470 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 22:19:30.739 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@1515f782
+[INFO ] 2023-07-24 22:19:30.843 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 22:19:31.148 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@6df791a4
+[INFO ] 2023-07-24 22:19:31.236 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:19:31.237 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 22:19:31.440 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@6c6c2a73
+[INFO ] 2023-07-24 22:19:31.445 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:19:31.445 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 22:19:31.637 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@54463380
+[INFO ] 2023-07-24 22:19:31.643 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:19:31.643 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 22:19:31.844 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@3513d214
+[INFO ] 2023-07-24 22:19:31.852 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-24 22:19:31.855 [main] Loggerload - -----user is going to delete the data by get request------
+[INFO ] 2023-07-24 22:19:31.855 [main] Loggerload - *********************** Deleting Batch *************
+[INFO ] 2023-07-24 22:35:31.908 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:35:32.145 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:35:33.004 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-24 22:35:33.021 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-24 22:35:33.224 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:35:33.224 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 22:35:33.511 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@1515f782
+[INFO ] 2023-07-24 22:35:33.617 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 22:35:33.873 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@6df791a4
+[INFO ] 2023-07-24 22:35:33.959 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:35:33.960 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 22:35:34.166 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@4d25f816
+[INFO ] 2023-07-24 22:35:34.170 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:35:34.170 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 22:35:34.365 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@3dc82e6a
+[INFO ] 2023-07-24 22:35:34.368 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 22:35:34.368 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 22:35:34.576 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@55951fcd
+[INFO ] 2023-07-24 23:19:51.635 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 23:19:51.637 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 23:19:52.514 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@4a070cf0
+[INFO ] 2023-07-24 23:19:52.609 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 23:19:52.861 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@1d3c112a
+[INFO ] 2023-07-24 23:20:13.699 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 23:20:13.706 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-24 23:20:14.478 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@dd3f8aa
+[INFO ] 2023-07-24 23:21:00.711 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-24 23:21:00.714 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-24 23:21:01.477 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@bb25753
+[INFO ] 2023-07-24 23:28:59.467 [main] Loggerload - user unable to get data with invalid baseUrl
+[INFO ] 2023-07-24 23:28:59.470 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-24 23:29:00.432 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@5707f613
+[INFO ] 2023-07-25 12:15:45.099 [main] Loggerload - user unable to get data with invalid baseUrl
+[INFO ] 2023-07-25 12:15:45.102 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 12:15:46.228 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@2bb41f5c
+[INFO ] 2023-07-25 12:25:20.864 [main] Loggerload - user unable to get data with invalid baseUrl
+[INFO ] 2023-07-25 12:25:20.867 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 12:25:21.901 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@2bb41f5c
+[INFO ] 2023-07-25 14:25:49.990 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 14:25:49.993 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 14:25:51.003 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@3a1f2a1
+[INFO ] 2023-07-25 14:25:51.127 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 14:25:51.533 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@6a950a3b
+[INFO ] 2023-07-25 14:28:07.953 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 14:28:07.955 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 14:28:08.920 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@40ce9049
+[INFO ] 2023-07-25 14:28:09.015 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 14:28:09.385 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@4f7be6c8
+[INFO ] 2023-07-25 14:30:08.942 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 14:30:09.204 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 14:30:10.103 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 14:30:10.118 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:04:05.548 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:04:05.809 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:04:06.698 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:04:06.706 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:04:06.721 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:04:06.905 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:05:44.254 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:05:44.493 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:05:45.375 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:05:45.384 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:05:45.401 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:05:45.584 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:09:00.922 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:09:01.161 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:09:02.031 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:09:02.032 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-25 15:09:02.032 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 15:09:02.394 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:09:02.409 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:09:02.607 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:10:40.091 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:10:40.330 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:10:41.187 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:10:41.188 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-25 15:10:41.188 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 15:10:41.596 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 15:10:41.623 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 15:10:41.854 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 15:10:41.855 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-25 15:10:41.855 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 15:34:00.178 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 15:34:00.182 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-25 15:34:00.938 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@3e1f1046
+[INFO ] 2023-07-25 15:35:24.775 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 15:35:24.780 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-25 15:35:25.546 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@3e1f1046
+[INFO ] 2023-07-25 15:35:25.568 [main] Loggerload - *********************** Batch details are Displayed *************
+[INFO ] 2023-07-25 15:37:52.634 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 15:37:52.638 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-25 15:37:53.423 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@3e1f1046
+[INFO ] 2023-07-25 15:37:53.447 [main] Loggerload - *********************** Batch details are Displayed *************
+[INFO ] 2023-07-25 16:33:07.924 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.151 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:08.152 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.153 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:08.153 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.871 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@f613067
+[INFO ] 2023-07-25 16:33:08.878 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.879 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:08.879 [main] Loggerload - *************POSt request***************
+[INFO ] 2023-07-25 16:33:08.888 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.889 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:08.889 [main] Loggerload - *************GET program byId***************
+[INFO ] 2023-07-25 16:33:08.897 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.897 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:08.898 [main] Loggerload - ************PUT program byId***************
+[INFO ] 2023-07-25 16:33:08.903 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.903 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:08.903 [main] Loggerload - ************PUT program BY NAME ***************
+[INFO ] 2023-07-25 16:33:08.907 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:08.908 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:08.908 [main] Loggerload - ************DELETE program byId***************
+[INFO ] 2023-07-25 16:33:09.075 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@72ce812e
+[INFO ] 2023-07-25 16:33:09.086 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:09.086 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:09.087 [main] Loggerload - ************POST second program ***************
+[INFO ] 2023-07-25 16:33:09.092 [main] Loggerload - *************Getting all records***************
+[INFO ] 2023-07-25 16:33:09.093 [main] Loggerload - In the Given by proram Id
+[INFO ] 2023-07-25 16:33:09.093 [main] Loggerload - ************DELETE program BY NAME ***************
+[INFO ] 2023-07-25 16:37:47.133 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 16:37:47.404 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 16:37:48.273 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 16:37:48.274 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-25 16:37:48.274 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 16:37:48.709 [main] Loggerload - user created post request with endpoint
+[INFO ] 2023-07-25 16:37:48.735 [main] Loggerload - *********************** Creating Batch *************
+[INFO ] 2023-07-25 16:37:48.947 [main] Loggerload - *********************** Batch is Created ****************
+[INFO ] 2023-07-25 16:37:48.948 [main] Loggerload - *********************** status is been verified ****************
+[INFO ] 2023-07-25 16:37:48.948 [main] Loggerload - *********************** Retrieving All Batches *************
+[INFO ] 2023-07-25 16:37:49.400 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 16:37:49.408 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 16:37:49.409 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-25 16:37:49.607 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@3fd33f48
+[INFO ] 2023-07-25 16:37:49.609 [main] Loggerload - *********************** Batch details are Displayed *************
+[INFO ] 2023-07-25 16:37:49.616 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 16:37:49.616 [main] Loggerload - *********************** Retrieving Batch *************
+[INFO ] 2023-07-25 16:37:49.814 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@35ab4260
+[INFO ] 2023-07-25 16:37:49.820 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 16:37:49.821 [main] Loggerload - *********************** Retriving Batch *************
+[INFO ] 2023-07-25 16:37:49.995 [main] Loggerload - io.restassured.internal.RestAssuredResponseImpl@41059616
+[INFO ] 2023-07-25 16:37:50.001 [main] Loggerload - -----user is going to update the data by get request------
+[INFO ] 2023-07-25 16:41:44.384 [main] Loggerload - -----user is going to retrieve the data by get request------
+[INFO ] 2023-07-25 16:44:10.276 [main] Loggerload - -----user is going to retrieve the data by get request------
